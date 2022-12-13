@@ -22,7 +22,7 @@
                         <li><a href="#">Gallery</a></li>
                         <li><a href="#">Cart</a></li>
                         <li><a href="login.php">Login</a></li>
-                        <li><a href="signup.html">SignUp</a></li>
+                        <li><a href="index.html">SignUp</a></li>
                     </ul>
                 </nav>
         </div>
